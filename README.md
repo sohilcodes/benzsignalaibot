@@ -1,1 +1,1 @@
-# benzsignalaibot
+# qxsignalai
